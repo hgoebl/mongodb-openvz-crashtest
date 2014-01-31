@@ -1,0 +1,12 @@
+{
+    "mongo": {
+        "host": "localhost",
+        "port": 27017,
+        "db_name": "crashtest"
+    },
+    "crashtest": {
+        "docSize": 2097152,
+        "docCount": 4096,
+        "col_name": "chunks"
+    }
+}
